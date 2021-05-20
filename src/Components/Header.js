@@ -1,9 +1,11 @@
 import React from 'react';
+import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-            <h1>The Future is Clearer</h1>
+        <div className='headerDiv'>
+            <img src='/Images/header-logo.png' className = 'headerImage'/>
+            <h1 classname = 'headerText'>The Future is Clearer</h1>
         </div>
     );
 };

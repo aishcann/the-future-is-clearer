@@ -1,0 +1,9 @@
+.threeCardPullDiv{
+    display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 1;
+  }
+
+.threeCardPullCards {
+    row-gap: 30px;
+}
