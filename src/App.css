@@ -2,9 +2,7 @@ body {
     background-color: black;
     color: #CE9647;
     text-align: center;
-    max-width: 1000px;
-    justify-content: flex;
+    justify-content: center;
     align-items: center;
     justify-items: center;
-
 }

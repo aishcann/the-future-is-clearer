@@ -4,8 +4,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className='headerDiv'>
-            <img src='/Images/header-logo.png' className = 'headerImage'/>
-            <h1 classname = 'headerText'>The Future is Clearer</h1>
+            <img src='/Images/header-logo-2.png' className = 'headerImage'/>
         </div>
     );
 };
