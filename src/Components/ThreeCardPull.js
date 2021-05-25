@@ -8,17 +8,17 @@ const ThreeCardPull = ({cards}) => {
 
     if (cards.length <1) {
         return (
-            <Link to="/"><button className='returnHome'>HOME</button></Link>
+            <Link to="/"><button className='returnHome'><strong>HOME</strong></button></Link>
         )
     }
 
     return (
         <div className='threeCardPullComponentDiv'>
-            <Link to="/"><button className='returnHome'>Set Another Intention</button></Link>
+            <Link to="/"><button className='returnHome'><strong>Set Another Intention</strong></button></Link>
             <div className='threeCardPullDiv'>
-                <div><h3 className='clarity'>Clarity on the Past</h3></div>
-                <div><h3 className='clarity'>Clarity on the Present</h3></div>
-                <div><h3 className='clarity'>Clarity on the Future</h3></div>
+                <div><h3 className='clarity'>CLARITY ON THE PAST</h3></div>
+                <div><h3 className='clarity'>CLARITY ON THE PRESENT</h3></div>
+                <div><h3 className='clarity'>CLARITY ON THE FUTURE</h3></div>
                     {cards.map(card => (
                         <div className='threeCardPullCards'>
                             <h3>{card.name}</h3>
