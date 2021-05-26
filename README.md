@@ -1,6 +1,6 @@
 # The Future is Clearer
 
-<img width="633" alt="Screen Shot 2021-05-25 at 11 14 15 PM" src="https://media.git.generalassemb.ly/user/35743/files/0bcf6600-bdaf-11eb-9619-24d4484b38aa">
+![Screen Shot 2021-05-26 at 8 39 51 AM](https://user-images.githubusercontent.com/81989356/119661288-2250de00-bdfe-11eb-96c7-75fc8fff2955.png)
 
 ## Description
 The Future is Clearer is a web application built that presents a user with a three-card tarot spread to provide guidance to any question or intention they set. While traditional tarot cards are more atmospheric, this app makes the tarot cards way more portable. No toting around your cards and guidebook, the cards are right on your mobile device.
